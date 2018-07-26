@@ -74,4 +74,4 @@ If the Clock Tower will boom, Output an integer Output "no" in otherwise
 ## 答案 / Solutions
 
 
-[Cpp]()
+[Cpp](https://github.com/SIST-Manual/easy_New-boom/blob/master/solve.cpp)
